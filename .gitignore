@@ -1,0 +1,7 @@
+*eps
+*png
+*pdf
+nohup*out
+.ipynb_checkpoints
+.Rhistory
+__pycache__
