@@ -27,6 +27,6 @@ As an advisory notice, here is some __IMPORTANT INFORMATION YOU MUST KNOW__ befo
 
 The code for this publication are _Python_ and _R_ scripts included in [/src](/src). Under that directory, more folders are included. Each one contains the code related to the name of the folder. It's pretty self explanatory.
 
-The scripts used to run the experiments and obtain the final predictions and metrics are in [/src/exps](/src/exps/). To clean and treat the data [/src/Data](/src/Data).
+The scripts used to run the experiments and obtain the final predictions and metrics are in [/src/exps](/src/exps/). To clean and process the data [/src/Data](/src/Data).
 
 Jupyter notebooks were used for the EDA stage and for some comparisons during the research process, and are a minimal part of the code (even if the percentage bar on the right says otherwise, but that's intrinsic to jupyter notebook).
