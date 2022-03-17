@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper "Machine Learning Regression and Classification Methods for Fog Events Prediction''. 
 
-As an advisory notice, here is some important information you must know before viewing the source code and/or reaching any conclusion from the files included in this repository:
+As an advisory notice, here is some __important information you must know__ before viewing the source code and/or reaching any conclusion from the files included in this repository:
 
 * Only the code is contained. The data can not be shared publicly here as the rights belong to a national governmental organization.
 
